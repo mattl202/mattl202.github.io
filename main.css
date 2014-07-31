@@ -1,0 +1,28 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url(images/background.gif);
+    background-attachment: fixed;
+}
+
+.middle{
+    margin:0 auto;
+}
+
+p{
+    font-family: courier new;
+    font-size: 20px;
+    padding:0px 40px;
+}
+
+p.left{
+    float:left;
+}
+
+p.right{
+    float:right;
+}
+
+.content{
+    margin:20px auto;
+    width:900px;
+}
